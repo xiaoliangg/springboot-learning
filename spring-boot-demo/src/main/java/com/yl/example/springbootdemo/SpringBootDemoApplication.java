@@ -15,7 +15,7 @@ public class SpringBootDemoApplication {
 
     @GetMapping
     public String test(){
-        return "hello spring-boot";
+        return "hello spring-boot2";
     }
 
 }
